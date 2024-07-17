@@ -1,0 +1,6 @@
+/.env
+/.ipynb_checkpoints
+/.venv
+/static
+/templates
+/__pycache__
